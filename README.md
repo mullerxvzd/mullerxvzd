@@ -5,3 +5,25 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+
+👨‍💻 Sobre mim
+
+🎯 Atuação em Analytics, FP&A e Inteligência de Mercado
+
+📊 Experiência em análise de dados, dashboards executivos e automação de indicadores
+
+🧠 Forte foco em tomada de decisão orientada a dados e eficiência operacional
+
+☁️ Vivência com Power BI, SQL, Excel, Python e ferramentas de gestão de projetos
+
+🚀 Perfil analítico, estruturado e orientado a resultado
+
+🛠️ Tech Stack
+Python SQL Power BI Excel ClickUp Git GitHub
+
+📚 O que estou desenvolvendo atualmente
+
+🔹 Modelagem de dados e consultas SQL avançadas                        
+🔹 Dashboards analíticos e executivos em Power BI (DAX)          
+🔹 Modelagem financeira, projeções e análise de performance (FP&A)        
+🔹 Fundamentos de Machine Learning e Estatística aplicada a negócios        
